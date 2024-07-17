@@ -35,7 +35,7 @@ Data referensi jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil 
 
 ## RAG LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/8a526fd5b3fbff55170ff8138ad658d9.png" alt="8a526fd5b3fbff55170ff8138ad658d9.png" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/11/ced345b5d0bf4ca7b4bfec39aa11cae9.png" alt="ced345b5d0bf4ca7b4bfec39aa11cae9.png" border="0" /></center>
 
 ---
 
