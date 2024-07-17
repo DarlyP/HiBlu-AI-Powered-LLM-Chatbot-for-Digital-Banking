@@ -1,20 +1,36 @@
 <img src="https://imgtr.ee/images/2024/07/17/7739fbd7d605b0d8b31194cdbd85fade.png" alt="7739fbd7d605b0d8b31194cdbd85fade.png" border="0" />
 
-# HiBlu: LLM Chatbot for Blu (BCA Digital)
+# HiBlu: LLM Chatbot for Blu (Digital Banking)
 
 ---
 
+## Tools
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
+[<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
+[<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />](https://www.selenium.dev/)
+[<img src="https://img.shields.io/badge/BeautifulSoup-430098?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />](https://www.crummy.com/software/BeautifulSoup/)
+[<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge" alt="LangChain" />](https://langchain.org/)
+[<img src="https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge" alt="OpenAI" />](https://www.openai.com/)
+[<img src="https://img.shields.io/badge/LLM-1A1A1A?style=for-the-badge" alt="LLM" />](https://en.wikipedia.org/wiki/Large_language_modeling)
+[<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />](https://streamlit.io/)
+[<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge" alt="NoSQL" />](https://en.wikipedia.org/wiki/NoSQL)
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/RAG-1A1A1A?style=for-the-badge" alt="RAG" />](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[<img src="https://img.shields.io/badge/LLM%20fine--tuning-1A1A1A?style=for-the-badge" alt="LLM fine-tuning" />](https://huggingface.co/transformers/model_sharing.html#fine-tuning)
+
+---
+
+
 ## Background
 
-Di era digital yang kompetitif saat ini, kepuasan user merupakan hal yang sangat penting khususnya dalam sektor layanan perbankan. Tanggapan yang cepat dan akurat terhadap pertanyaan user sangatlah penting untuk mempertahankan nasabah mereka. Teknologi Generative AI, khususnya Large Language Models (LLM), telah merevolusi interaksi terhadap user melalui chatbot yang cerdas dan mampu untuk menyediakan informasi dengan cepat dan tepat, serta dapat meningkatkan efisiensi *operational cost*.
+In today's competitive digital era, user satisfaction is crucial, especially in the banking sector. Prompt and accurate responses to user inquiries are essential for retaining customers. Generative AI technology, particularly Large Language Models (LLMs), has revolutionized user interactions through intelligent chatbots capable of providing information quickly and accurately. This not only enhances operational efficiency but also reduces costs.
 
 ---
 
 ## Introduction
 
-HiBlu merupakan model chatbot LLM yang dibuat khusus untuk **blu** (sebuah layanan perbankan digital oleh BCA). HiBlu dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan nasabah/calon nasabah terkait layanan **blu** guna meningkatkan waktu respon, efisiensi, dan pengalaman user.
-
-Model chatbot LLM ini merupakan *prototype pertama* yang harapannya dapat diimplementasikan terhadap kesuluruhan layanan instansi BCA di masa depan. Dalam dokumentasi prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
+HiBlu is a custom LLM chatbot model developed specifically for Blu, a digital banking service. Its primary objective is to deliver prompt and precise responses to inquiries from current and potential customers regarding Blu's services, enhancing response efficiency and user satisfaction. This initial prototype of the LLM chatbot aims to pave the way for broader implementation across all Blu services in the future. The documentation for this prototype will include a comparative analysis of modeling outcomes from the LLM RAG model, fine-tuned LLM model, and RAFT LLM model.
 
 ---
 
@@ -29,7 +45,7 @@ Model chatbot LLM ini merupakan *prototype pertama* yang harapannya dapat diimpl
 
 ## Data Source
 
-Data referensi jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil scrapping pada laman [FAQ Blu](https://blubybcadigital.id/info/faq).
+The reference data for frequently asked questions and answers is based on data scraped from the [FAQ Blu](https://blubybcadigital.id/info/faq).
 
 ---
 
@@ -76,7 +92,7 @@ Data referensi jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil 
 
 ---
 
-**Disclaimer**: Notebook ini dibuat semata-mata untuk tujuan pembelajaran dan eksplorasi. Tidak ada maksud untuk menyinggung atau merugikan pihak mana pun. Segala konten dan analisis yang disajikan didasarkan pada data publik yang tersedia secara online. Saya melakukan proses ini untuk meningkatkan pemahaman tentang teknik dan metodologi analisis data, serta untuk mengasah keterampilan dalam mengimplementasikan algoritma dan model yang relevan dalam konteks pembelajaran data science.
-
-Dalam melakukan analisis ini, saya berusaha menjaga objektivitas dan profesionalitas dalam menginterpretasikan data yang ada. Segala kesimpulan atau rekomendasi yang disampaikan merupakan hasil dari analisis pribadi dan tidak bermaksud sebagai saran profesional dalam kapasitas tertentu. Saya berharap informasi yang diperoleh dari notebook ini dapat bermanfaat bagi siapa pun yang membacanya untuk kepentingan belajar dan pengembangan keterampilan analisis data.
+**Disclaimer**: 
+- This notebook is created solely for learning and exploration purposes. There is no intention to offend or harm any party. All content and analysis presented are based on publicly available data online. I undertake this process to enhance my understanding of data analysis techniques and methodologies and hone my skills in implementing relevant algorithms and models within the context of data science learning. In conducting this analysis, I strive to maintain objectivity and professionalism in interpreting the existing data. Any conclusions or recommendations provided result from personal analysis and are not intended as professional advice in any specific capacity. I hope the information obtained from this notebook can be useful to anyone reading it to learn and develop data analysis skills.
+- This notebook is written in Indonesian.
 
