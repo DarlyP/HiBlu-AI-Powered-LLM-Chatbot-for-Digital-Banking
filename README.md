@@ -57,13 +57,14 @@ The reference data for frequently asked questions and answers is based on data s
 
 ## Fine Tuning LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/cd68f1b08bdac93e13e63ea234af44e0.png" alt="cd68f1b08bdac93e13e63ea234af44e0.png" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/23/1b7d061e76097cd48201d7ce5e096e95.png" alt="1b7d061e76097cd48201d7ce5e096e95.png" border="0" /></center>
+
 
 ---
 
 ## RAFT LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/b4d1f6353981668b1938edc7dbf3dff1.png" alt="b4d1f6353981668b1938edc7dbf3dff1.png" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/23/2c952693f912f7802d8ea9e49a02ea49.png" alt="2c952693f912f7802d8ea9e49a02ea49.png" border="0" /></center>
 
 ---
 
