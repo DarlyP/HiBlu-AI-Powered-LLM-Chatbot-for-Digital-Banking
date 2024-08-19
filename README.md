@@ -1,4 +1,4 @@
-<img src="https://imgtr.ee/images/2024/07/17/7739fbd7d605b0d8b31194cdbd85fade.png" alt="7739fbd7d605b0d8b31194cdbd85fade.png" border="0" />
+![Hiblu](https://github.com/DarlyP/Hiblu-LLM-Chatbot/blob/main/Images/HiBlu.jpeg)
 
 # HiBlu: LLM Chatbot for Blu (Digital Banking)
 
@@ -51,20 +51,19 @@ The reference data for frequently asked questions and answers is based on data s
 
 ## RAG LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/11/ced345b5d0bf4ca7b4bfec39aa11cae9.png" alt="ced345b5d0bf4ca7b4bfec39aa11cae9.png" border="0" /></center>
+![RAG](https://github.com/DarlyP/Hiblu-LLM-Chatbot/blob/main/Images/RAG.png)
 
 ---
 
 ## Fine Tuning LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/23/1b7d061e76097cd48201d7ce5e096e95.png" alt="1b7d061e76097cd48201d7ce5e096e95.png" border="0" /></center>
-
+![Fine Tuning](https://github.com/DarlyP/Hiblu-LLM-Chatbot/blob/main/Images/fine%20tuning.png)
 
 ---
 
 ## RAFT LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/23/2c952693f912f7802d8ea9e49a02ea49.png" alt="2c952693f912f7802d8ea9e49a02ea49.png" border="0" /></center>
+![Raft LLM](https://github.com/DarlyP/Hiblu-LLM-Chatbot/blob/main/Images/fine%20tuning.png)
 
 ---
 
