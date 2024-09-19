@@ -1,6 +1,6 @@
 ![Hiblu](https://github.com/DarlyP/Hiblu-LLM-Chatbot/blob/main/Images/HiBlu.jpeg)
 
-# HiBlu: LLM Chatbot for Blu (Digital Banking)
+# HiBlu: AI-Powered LLM Chatbot for Digital Banking
 
 ---
 
